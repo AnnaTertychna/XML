@@ -1,1 +1,8 @@
-git XML
+	
+	<Student>
+		<Name>Anna</Name>
+		<Surname>Tertychna</Surname>
+		<Age>35</Age>
+		<Animals>1</Animals>
+		<Salary>1500$</Salary>
+	</Stusent>		
