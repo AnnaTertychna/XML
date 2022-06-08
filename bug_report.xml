@@ -1,1 +1,17 @@
-
+<BugReport>
+  <Title>Albums are shown in the list of playlists</Title>
+	<Severity>Major</Severity>
+	<Priority>Medium</Priority>
+	<Summary>Albums appear in the playlist therefor play lists do not much in the main screen and on the left user menu</Summary>
+	<Environment>A 1.0.27 (mobil app)</Environment>
+  <Environment>Device Samsung A8</Environment>
+  <Environment>Android 9</Environment>
+	<StepsToReproduce>Open the a.co app as a signed-in user</StepsToReproduce>
+  <StepsToReproduce>Create an album</StepsToReproduce> 
+  <StepsToReproduce>Look at Playlist list on the top left user menu</StepsToReproduce>
+	<ExpectedResult>Only playlists are shown on the playlist</ExpectedResult>
+	<EctualResult>Albums are shown on the playlist</EctualResult>
+	<Attachments>Screenshots</Attachments>
+  <Attachments>Videos</Attachments>
+  <Attachments>Text</Attachments>
+</BugReport>
