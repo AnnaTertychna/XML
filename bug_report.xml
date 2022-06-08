@@ -1,4 +1,5 @@
 <BugReport>
+	<ID>1.09</ID>	
   <Title>Albums are shown in the list of playlists</Title>
 	<Severity>Major</Severity>
 	<Priority>Medium</Priority>
